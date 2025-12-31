@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "expo": "^32.0.0",
-    "expo-cli": "^2.21.1",
+    "expo-cli": "^6.3.12",
     "prop-types": "^15.6.0",
     "react": "16.4.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz"
